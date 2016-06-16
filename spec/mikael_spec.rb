@@ -1,4 +1,4 @@
-require './lib/mikeal.rb'
+require './lib/mikael.rb'
 
 describe 'mikael' do
   after do
